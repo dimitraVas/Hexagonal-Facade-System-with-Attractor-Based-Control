@@ -10,4 +10,4 @@ Closed hexagonal cells are generated using the same attractor logic, with the ad
 
 The resulting geometry is then morphed onto the facade surface.
 
-(images/FACADE_01.jpg)
+![](images/FACADE_01.jpg)
