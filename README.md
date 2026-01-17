@@ -1,7 +1,5 @@
 # Hexagonal-Facade-System-with-Attractor-Based-Control
 
-Overview
-
 This project explores a parametric facade system based on a hexagonal grid, developed in Grasshopper using line-attractor-based logic. The focus is on controlling geometric variation through simple and adjustable rules.
 
 Concept
