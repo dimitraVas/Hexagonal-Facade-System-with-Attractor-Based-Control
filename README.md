@@ -11,3 +11,5 @@ Variation in the scale of the hexagonal cells is introduced through a line attra
 Closed hexagonal cells are generated using the same attractor logic, with the addition of controlled randomness through jitter. The jitter intentionally breaks the strict attractor influence and can be adjusted via a slider to control its intensity.
 
 The resulting geometry is then morphed onto the facade surface.
+
+(images/01.png)
